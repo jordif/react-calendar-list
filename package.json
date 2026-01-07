@@ -1,9 +1,13 @@
 {
   "name": "@jordif/react-calendar-list",
   "description": "A lightweight, unstyled React component for rendering schedules or archives as a list of monthly calendars. Perfect for event feeds, blog archives and availability overviews.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jordi Fontseca",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jordif/react-calendar-list.git"
+  },
   "type": "module",
   "files": [
     "dist"
